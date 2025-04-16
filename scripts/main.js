@@ -34,7 +34,7 @@ async function main() {
 			}, 1000);
 		});
 
-	} catch (error) {
+	} catch (err) {
 		console.error("Error during game initialization:", err);
 	}
 }

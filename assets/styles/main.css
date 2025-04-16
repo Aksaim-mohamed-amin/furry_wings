@@ -130,7 +130,7 @@ body {
 /* game box */
 #game-box {
     height: 600px;
-    background-image: url("/assets/images/background.jpg");
+    background-image: url("./assets/images/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -256,7 +256,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     z-index: 3;
-    background-image: url("/assets/images/explosion.gif");
+    background-image: url("./assets/images/explosion.gif");
 }
 
 .enemy-explosion {
