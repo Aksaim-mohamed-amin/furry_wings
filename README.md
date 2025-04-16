@@ -5,6 +5,12 @@ Fly your hero plane, dodge enemy fire, and battle waves of enemy aircraft and he
 
 ---
 
+## 🔗 Live Demo
+
+Play it here: [https://aksaim-mohamed-amin.github.io/furry_wings/](https://aksaim-mohamed-amin.github.io/furry_wings/)
+
+---
+
 ## 🎮 Gameplay
 
 - You control a **hero airplane** stationed at the bottom of the screen.
