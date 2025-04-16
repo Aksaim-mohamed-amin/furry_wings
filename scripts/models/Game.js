@@ -124,7 +124,7 @@ class Game {
 		startScreen.style.display = "flex";
 		startScreen.innerHTML = `
         <div class="overlay-content">
-            <img src="assets/images/furywings.png" class="logo" alt="Fury Wings">
+            <img src="./assets/images/furywings.png" class="logo" alt="Fury Wings">
             <h2 id="game-status" class="status-message">Game Over <i class="bi bi-emoji-frown-fill"></i></h2>
             <p id="game-instruction" class="instruction">Final Score: ${this.score}</p>
             <button id="restart-button" class="btn btn-primary">Try Again <i class="bi bi-repeat"></i></button>
